@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Movies</label>
+	</settings>
+	<users>
+		<user>
+			<path>Movies.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Movies.jcp</path>
+		</project>
+	</projects>
+</workspace>
